@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-from tkinter import Tk, PhotoImage, Label
 from pytube import YouTube
 import os
 
